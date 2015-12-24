@@ -186,9 +186,8 @@ const styles = Stylesheet.create({
 
 ## Xcode!
 
-- Simulator
-  - There's a handy 'inspector' setting you can use similar to 'inspect' element in the browse. When running the simulator hit cmd + z to show the settings
-  -
+- Simulator. There's a handy 'inspector' setting you can use similar to 'inspect' element in the browser. When running the simulator hit cmd + z to show the settings
+
 
 ## Redux
 
